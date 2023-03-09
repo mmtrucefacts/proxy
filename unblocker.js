@@ -8,7 +8,7 @@ const values = Object.values(jsonData);
 
 const randomValue = values[parseInt(Math.random() * values.length)];
 
-var val = prompt("YAU VERSION: V0.0.2 \nEnter url to unblock a website \nMADE BY static#1865", "https://staticdev.org");
+var val = prompt("CO VERSION: V0.0.2 \nEnter url to unblock a website \nMade By mmtrucefacts", "https://poki.com");
 var encoded = btoa(val);
 if (encoded === 'bnVsbA==') {
     var u = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999");
