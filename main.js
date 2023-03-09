@@ -1,8 +1,8 @@
 let jsonData = {
     //   "312": "https://incognito.tumbadoware.repl.co/load.html#",
     //   "311": "https://elixir.tumbadoware.repl.co/load.html#",
-    "002": "https://kashiuer.onrender.com/load.html#",
-    "002": "https://kashiuer-dev.solopanel.lol/load.html#"
+    "002": "https://website-aio-cameronja14u4o9xb.koyeb.app/1.html#",
+    "002": "https://website-aio-cameronja14u4o9xb.koyeb.app/1.html#"
 };
 const values = Object.values(jsonData);
 
